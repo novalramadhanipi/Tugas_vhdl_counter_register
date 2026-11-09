@@ -1,0 +1,47 @@
+v 4
+file . "ex6_tb.vhdl" "1ba1293a42d9f90d8d64613ad790d8339f661468" "20261109172832.509":
+  entity ex6_tb at 1( 0) + 0 on 59;
+  architecture sim of ex6_tb at 7( 74) + 0 on 60;
+file . "ex6.vhdl" "9d15716552d78a246d25cd26b3ae325218072f9d" "20261109172832.509":
+  entity gray_case at 1( 0) + 0 on 55;
+  architecture rtl of gray_case at 11( 236) + 0 on 56;
+  entity gray_bin at 34( 860) + 0 on 57;
+  architecture rtl of gray_bin at 44( 1106) + 0 on 58;
+file . "ex4_tb.vhdl" "9386ac44a6b26f3dfef526579386df5ce6d02715" "20261109172541.131":
+  entity ex4_tb at 1( 0) + 0 on 53;
+  architecture sim of ex4_tb at 7( 74) + 0 on 54;
+file . "ex4.vhdl" "05d3f62ad69d522e22020edaa4d3b2fbf6e3a5c5" "20261109172541.130":
+  entity shift_left_siso at 1( 0) + 0 on 49;
+  architecture rtl of shift_left_siso at 11( 315) + 0 on 50;
+  entity shift_lr_sipo at 29( 692) + 0 on 51;
+  architecture rtl of shift_lr_sipo at 40( 1002) + 0 on 52;
+file . "ex2_tb.vhdl" "6e7e697378438cf56243eba3789e6895adbb26d4" "20261109171330.347":
+  entity ex2_tb at 1( 0) + 0 on 27;
+  architecture sim of ex2_tb at 8( 100) + 0 on 28;
+file . "ex2.vhdl" "ebea29c650da9ecb611161cebac8308786610436" "20261109171330.346":
+  entity down_cnt_sset at 1( 0) + 0 on 23;
+  architecture rtl of down_cnt_sset at 11( 252) + 0 on 24;
+  entity up_cnt_signed at 27( 590) + 0 on 25;
+  architecture rtl of up_cnt_signed at 37( 829) + 0 on 26;
+file . "ex1_tb.vhdl" "e74020c4b78d8999d28b64f759a6d8d186bacb1f" "20261109165728.973":
+  entity ex1_tb at 1( 0) + 0 on 21;
+  architecture sim of ex1_tb at 7( 74) + 0 on 22;
+file . "ex1.vhdl" "e2c631bc5e283e3d9cd73420b1a6c20ce63d8a57" "20261109165728.973":
+  entity reg_neg_clr at 1( 0) + 0 on 17;
+  architecture rtl of reg_neg_clr at 11( 286) + 0 on 18;
+  entity reg_pos_set_en at 23( 499) + 0 on 19;
+  architecture rtl of reg_pos_set_en at 33( 811) + 0 on 20;
+file . "ex3.vhdl" "e33873ef048e72558f30e07912ac03c7f6c55008" "20261109172156.632":
+  entity accumulator at 1( 0) + 0 on 45;
+  architecture rtl of accumulator at 11( 234) + 0 on 46;
+file . "ex3_tb.vhdl" "9ad8157b5855e911d8f81b15a54bb992f1fd67d3" "20261109172156.634":
+  entity ex3_tb at 1( 0) + 0 on 47;
+  architecture sim of ex3_tb at 8( 100) + 0 on 48;
+file . "ex5.vhdl" "c4ce1bb891e117ddb01607bd98c156d9dfaaee86" "20261109171914.666":
+  entity counter_preset at 1( 0) + 0 on 39;
+  architecture rtl of counter_preset at 12( 315) + 0 on 40;
+  entity updown_cnt_clr at 28( 638) + 0 on 41;
+  architecture rtl of updown_cnt_clr at 38( 894) + 0 on 42;
+file . "ex5_tb.vhdl" "6b7a570662cfafb5c2f8f3807cf34986822715de" "20261109171914.668":
+  entity ex5_tb at 1( 0) + 0 on 43;
+  architecture sim of ex5_tb at 8( 100) + 0 on 44;
